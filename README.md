@@ -46,3 +46,5 @@ A pull request is merged when the file:
 ## File format
 
 Each file is a normal TTS saved object: one bag tagged `AutoArmy`, so you can also load it in TTS from Saved Objects. The bag's `GMNotes` hold `{"autoArmy":1, "army", "author", "faction", "bsdata", "updated"}`. Each model's **Name** is its name in the roster without the loadout part (`Battle Sister`, not `Battle Sister w/ Special Weapon`). Its **Description** has one line per item it holds, plus optional `fallback`, `alias: <name>`, `unit: <unit>`, `variant: <scheme>` and `# comment` lines.
+
+## MY Discord: as_notchu
