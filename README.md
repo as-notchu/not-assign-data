@@ -1,12 +1,12 @@
-# Auto Army Collections
+# Not Assign: army collections
 
-Model collections for the **Auto Army** table in Tabletop Simulator. Paste a Yellowscribe code, press **BUILD ARMY**, and the army lands on the table with real models. No picking models by hand.
+Model collections for the **Not Assign** table in Tabletop Simulator. Paste a Yellowscribe code, press **BUILD ARMY**, and the army lands on the table with real models. No picking models by hand.
 
 Every file in [`armies/`](armies) is one army's models, labelled so the table knows which model is which. A collection is made by someone who plays that army. The table downloads collections from this repository whenever it builds an army, so once a pull request is merged, everyone has the new or fixed army. No table update is needed.
 
 ## Playing
 
-1. Subscribe to the Auto Army table in the Steam Workshop: *link coming soon*.
+1. Subscribe to [Not Assign in the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833082699) and load it in Tabletop Simulator.
 2. Build your list in New Recruit or BattleScribe and turn it into a code on [yellowscribe.link](https://yellowscribe.link).
 3. In TTS, paste the code into the **Auto Army** panel and press **BUILD ARMY**.
 
@@ -20,7 +20,7 @@ You need your painted or downloaded models in TTS and a free GitHub account. No 
 
 1. **Bag your models.** In TTS, put every model of the army into one bag. Then right-click the bag and choose **Save Object**. The file is saved to
    `Documents\My Games\Tabletop Simulator\Saves\Saved Objects`.
-2. **Label them.** Open that file on the collection maker site (*link coming soon*) and pick the army. For each model, choose what it is and tick what it holds: weapons and wargear such as *Sacred Banner*. The site gets units and weapons from [BSData](https://github.com/BSData/wh40k-11e), so names match your roster.
+2. **Label them.** Open that file on [40k.notchu.dev](https://40k.notchu.dev) and pick the army. For each model, choose what it is and tick what it holds: weapons and wargear such as *Sacred Banner*. The site gets units and weapons from [BSData](https://github.com/BSData/wh40k-11e), so names match your roster.
 3. **Send it.** Press **Submit to catalog**. The site downloads `<army>--<your-name>.json` and opens this repository's upload page. Drag the file there, then press **Propose changes** and **Create pull request**.
 
 The file name sets the army's name on the table: `imperial-knights--bob.json` shows up as *Imperial Knights*. Use the faction's name as BSData spells it, so allies and auto-detect can find it.
