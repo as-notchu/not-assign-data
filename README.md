@@ -7,7 +7,7 @@ Every file in [`armies/`](armies) is one army's models, labelled so the table kn
 ## Playing
 
 1. Subscribe to [Not Assign in the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833082699) and load it in Tabletop Simulator.
-2. Build your list in New Recruit or BattleScribe and turn it into a code on [yellowscribe.link](https://yellowscribe.link).
+2. Build your list in [New Recruit](https://www.newrecruit.eu) and export it for Tabletop Simulator (Yellowscribe). You get a short code.
 3. In TTS, paste the code into the **Auto Army** panel and press **BUILD ARMY**.
 
 - **Army: auto-detect** picks the collection for your roster's faction. Click the button to choose a collection yourself.
