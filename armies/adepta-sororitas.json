@@ -1186,7 +1186,7 @@
             "scaleZ": 1
           },
           "Nickname": "Insidiant",
-          "Description": "",
+          "Description": "Null mace",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1969,7 +1969,7 @@
             "scaleZ": 1
           },
           "Nickname": "Insidiant",
-          "Description": "Ministorum hand flamer",
+          "Description": "Ministorum hand flamer\nNull mace",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2945,7 +2945,7 @@
             "scaleZ": 1
           },
           "Nickname": "Paragon Warsuit",
-          "Description": "Heavy bolter\nParagon Grenade Launchers\nParagon War Mace\nalias: Paragon Superior\nvariant: black",
+          "Description": "Heavy bolter\nParagon War Mace\nParagon Grenade Launchers\nalias: Paragon Superior\nvariant: black",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3729,7 +3729,7 @@
             "scaleZ": 1
           },
           "Nickname": "Insidiant",
-          "Description": "",
+          "Description": "Null mace\nMinistorum hand flamer",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4315,7 +4315,7 @@
             "scaleZ": 1
           },
           "Nickname": "Insidiant",
-          "Description": "Ministorum hand flamer",
+          "Description": "Ministorum hand flamer\nNull mace",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
