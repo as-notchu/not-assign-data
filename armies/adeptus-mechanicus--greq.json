@@ -8208,7 +8208,7 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "Nickname": "",
+          "Nickname": "YFIPVY",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -10777,7 +10777,7 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "Nickname": "",
+          "Nickname": "FNSSTS",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -11594,6 +11594,136 @@
               ]
             }
           ]
+        },
+        {
+          "GUID": "c7ee2f",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 24.7220421,
+            "posY": 2.73803115,
+            "posZ": 4.877049,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Nickname": "Pteraxii Sterylizors",
+          "Description": "# Ripped from Gladius by Vicmo",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ColorDiffuse": {
+            "r": 0.9738677,
+            "g": 0.638434768,
+            "b": 0.4054942
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": true,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/15659641846743302302/86B323E0BA2ECEA36664F30E057F494435ACA458/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11581122337425298143/6E9CB52036FB8C8DA15BE2999AA79DE85B892A2B/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1831290650623718851/BAC3B451E851B9100F025C84D1670FAEFBF31600/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "SpecularIntensity": 0,
+              "SpecularSharpness": 2,
+              "FresnelStrength": 0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "23851c",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 26.2220421,
+            "posY": 2.73803115,
+            "posZ": 4.877049,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Nickname": "Pteraxii Sterylizor Alpha",
+          "Description": "# Ripped from Gladius by Vicmo",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": true,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/2064379389820999564/2AFAA8AF312A44B22AD5E26B4A77BEC9CF551866/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/787504189454184063/3AEF29FC5EDE58F0139E0BAD1E217466DD0DCF02/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1831290650623718851/BAC3B451E851B9100F025C84D1670FAEFBF31600/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "SpecularIntensity": 0,
+              "SpecularSharpness": 2,
+              "FresnelStrength": 0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
         }
       ],
       "Tags": [
