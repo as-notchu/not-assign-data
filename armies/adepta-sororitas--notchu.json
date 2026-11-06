@@ -32,7 +32,7 @@
       },
       "Nickname": "Adepta Sororitas",
       "Description": "",
-      "GMNotes": "{\"autoArmy\":1,\"army\":\"Adepta Sororitas\",\"author\":\"notchu\",\"faction\":\"Imperium - Adepta Sororitas\",\"bsdata\":\"bf57faff9ae8ff87efe71038170bb33641cc8ae4\",\"updated\":\"2026-11-05\"}",
+      "GMNotes": "{\"autoArmy\":1,\"army\":\"Adepta Sororitas\",\"author\":\"notchu\",\"faction\":\"Imperium - Adepta Sororitas\",\"bsdata\":\"afd795c795582aa3596d9934fa74a64d8c3f3b18\",\"updated\":\"2026-11-06\"}",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -12637,7 +12637,7 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "Nickname": "Canoness",
+          "Nickname": "Canoness with Jump Pack",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -19790,6 +19790,136 @@
                     "b": 0.7463235
                   },
                   "SpecularIntensity": 0.05,
+                  "SpecularSharpness": 2,
+                  "FresnelStrength": 0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "949210",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 3.16958022,
+            "posY": 2.74009681,
+            "posZ": -25.4246769,
+            "rotX": 359.011078,
+            "rotY": 179.9798,
+            "rotZ": 358.4122,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Nickname": "Sacresant Superior",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ColorDiffuse": {
+            "r": 0.670588255,
+            "g": 0.4666664,
+            "b": 0.239214
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10789802620685510/A59749C4A41CBE16BBAE3BD69B441EBEC20180CA/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/10789802620685510/A59749C4A41CBE16BBAE3BD69B441EBEC20180CA/",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.875,
+                "g": 0.812880337,
+                "b": 0.7463235
+              },
+              "SpecularIntensity": 0.015,
+              "SpecularSharpness": 2,
+              "FresnelStrength": 0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "cfe8fc",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -2.85038254e-7,
+                "posY": 0.127391636,
+                "posZ": -4.22247638e-7,
+                "rotX": -0.000396367075,
+                "rotY": 14.9690447,
+                "rotZ": -0.000333858363,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "ColorDiffuse": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CustomMesh": {
+                "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10562096217284658928/3AD2A3171FC4FAF42D390124D46B229EA4640FF6/",
+                "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15768057647221286631/D827373C6725AC9900D2C738BF4D41C6A6392D22/",
+                "NormalURL": "",
+                "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/2093668799798544316/89279E626CE9C40B22701D91F593A866244C6AE2/",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 1,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "SpecularIntensity": 0,
                   "SpecularSharpness": 2,
                   "FresnelStrength": 0
                 },
