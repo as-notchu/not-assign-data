@@ -20,19 +20,19 @@
       "GUID": "0dce5b",
       "Name": "Bag",
       "Transform": {
-        "posX": 33.6305847,
-        "posY": 0.4849702,
-        "posZ": 9.57284451,
-        "rotX": -8.6208064e-7,
-        "rotY": -0.00009658314,
-        "rotZ": 0.00003634041,
+        "posX": -63.171505,
+        "posY": 0.484962,
+        "posZ": 24.2336159,
+        "rotX": -0.00000567625057,
+        "rotY": -0.000223648676,
+        "rotZ": 0.000005231042,
         "scaleX": 1,
         "scaleY": 1,
         "scaleZ": 1
       },
       "Nickname": "Adeptus Mechanicus",
       "Description": "",
-      "GMNotes": "{\"autoArmy\":1,\"army\":\"Adeptus Mechanicus\",\"author\":\"GreQ\",\"faction\":\"Imperium - Adeptus Mechanicus\",\"bsdata\":\"6530077baf71155644fad99e932974436bc559ee\",\"updated\":\"2026-11-04\"}",
+      "GMNotes": "{\"autoArmy\":1,\"army\":\"Adeptus Mechanicus\",\"author\":\"GreQ\",\"faction\":\"Imperium - Adeptus Mechanicus\",\"bsdata\":\"e5a5ae69b9104f703d4e52833e514e8461d65676\",\"updated\":\"2026-11-06\"}",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -43,6 +43,9 @@
         "g": 0.366520882,
         "b": 0
       },
+      "Tags": [
+        "AutoArmy"
+      ],
       "LayoutGroupSortIndex": 0,
       "Value": 0,
       "Locked": false,
@@ -11594,10 +11597,267 @@
               ]
             }
           ]
+        },
+        {
+          "GUID": "7a9353",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -62.72267,
+            "posY": 2.74037027,
+            "posZ": 24.41746,
+            "rotX": 359.839935,
+            "rotY": 179.95517,
+            "rotZ": 0.3641379,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Nickname": "Pteraxii Sterylizors",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ColorDiffuse": {
+            "r": 0.9738677,
+            "g": 0.638434768,
+            "b": 0.4054942
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": true,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/15659641846743302302/86B323E0BA2ECEA36664F30E057F494435ACA458/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11581122337425298143/6E9CB52036FB8C8DA15BE2999AA79DE85B892A2B/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1831290650623718851/BAC3B451E851B9100F025C84D1670FAEFBF31600/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "SpecularIntensity": 0,
+              "SpecularSharpness": 2,
+              "FresnelStrength": 0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "e64514",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -61.21106,
+            "posY": 2.73769045,
+            "posZ": 19.6804714,
+            "rotX": 0.000004469489,
+            "rotY": 180.0189,
+            "rotZ": -0.000005379939,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Nickname": "Tech Priest Enginseer",
+          "Description": "Photoscanned by Seaborne",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ColorDiffuse": {
+            "r": 0.670588255,
+            "g": 0.4666664,
+            "b": 0.239201814
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10789802620685510/A59749C4A41CBE16BBAE3BD69B441EBEC20180CA/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/10789802620685510/A59749C4A41CBE16BBAE3BD69B441EBEC20180CA/",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.875,
+                "g": 0.812880337,
+                "b": 0.7463235
+              },
+              "SpecularIntensity": 0.015,
+              "SpecularSharpness": 2,
+              "FresnelStrength": 0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "ee2ab2",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -0.00000189874368,
+                "posY": 0.127397,
+                "posZ": 8.654765e-7,
+                "rotX": 0.000230700229,
+                "rotY": 359.968933,
+                "rotZ": 0.0007725446,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "ColorDiffuse": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CustomMesh": {
+                "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10472656427380222140/527996114467BE622A8DE59B7FC7BFB61EFE0DC0/",
+                "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12392111632407701816/86A745B5F0B4E15720230C8C6733D1975B145B0C/",
+                "NormalURL": "",
+                "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/10789802620685510/A59749C4A41CBE16BBAE3BD69B441EBEC20180CA/",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 1,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "SpecularIntensity": 0,
+                  "SpecularSharpness": 2,
+                  "FresnelStrength": 0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "783c25",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -56.95957,
+            "posY": 2.7376914,
+            "posZ": 24.1509743,
+            "rotX": 0.00000491515675,
+            "rotY": 180.000259,
+            "rotZ": -0.000004820674,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Nickname": "Pteraxii Sterylizor Alpha",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": true,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/2064379389820999564/2AFAA8AF312A44B22AD5E26B4A77BEC9CF551866/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/787504189454184063/3AEF29FC5EDE58F0139E0BAD1E217466DD0DCF02/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1831290650623718851/BAC3B451E851B9100F025C84D1670FAEFBF31600/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "SpecularIntensity": 0,
+              "SpecularSharpness": 2,
+              "FresnelStrength": 0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
         }
-      ],
-      "Tags": [
-        "AutoArmy"
       ]
     }
   ]
