@@ -16,31 +16,27 @@ Every file in [`armies/`](armies) is one army's models, labelled so the table kn
 
 ## Model credits
 
-The models in these collections were made by people from the Tabletop Simulator community: photoscans, kitbashes, recolours and models ripped from *Warhammer 40,000: Gladius*. Not Assign only sorts them into armies. Thank you to:
+Thank you to everyone whose models are in these collections:
 
-| Author | Work | Armies | Models |
-|---|---|---|---|
-| **Raikoh** (ForceOrg) | photoscans, Gladius rips, kitbashes | Adepta Sororitas, Adeptus Custodes, Drukhari, Imperial Knights | 214 |
-| **Seaborne** | photoscans, kitbashes | Adepta Sororitas, Adeptus Custodes, Adeptus Mechanicus, Drukhari, Imperial Knights | 132 |
-| **Savage Boii** (40k Translator) | original models, photoscans | Adepta Sororitas, Adeptus Custodes, Adeptus Mechanicus, Drukhari, Imperial Knights | 53 |
-| **Orange Blue Hue** | models | Drukhari | 50 |
-| **Clostry** (Clostry's Figure Corner) | models | Adeptus Custodes, Adeptus Mechanicus | 28 |
-| **Vicmo & Knuckles Workshop** | Gladius rips, rescaled models and fixed colliders | Adeptus Mechanicus | 20 |
-| **Mothman Zack** | models | Adeptus Mechanicus | 17 |
-| **Dark Trinity** | models | Adeptus Mechanicus | 17 |
-| **SirDragdord** | recolours, edits | Adeptus Mechanicus, Drukhari | 14 |
-| **Slambo Minis** | models | Adepta Sororitas | 13 |
-| **Lone_Wolf_28** | models | Adepta Sororitas | 8 |
-| **Den of Imagination** | models | Adeptus Custodes, Imperial Knights | 5 |
-| **Colonel Cabbage** | models | Drukhari | 3 |
-| **Retipupu** | kitbash | Drukhari | 1 |
-| **Galling** | kitbash | Drukhari | 1 |
-| **ZenphyL** | model | Drukhari | 1 |
-| **Ziggy Stardust** | photoscan | Imperial Knights | 1 |
+- **Raikoh**: Adepta Sororitas, Adeptus Custodes, Drukhari, Imperial Knights
+- **Seaborne**: Adepta Sororitas, Adeptus Custodes, Adeptus Mechanicus, Drukhari, Imperial Knights
+- **Savage Boii**: Adepta Sororitas, Adeptus Custodes, Adeptus Mechanicus, Drukhari, Imperial Knights
+- **Orange Blue Hue**: Drukhari
+- **Clostry**: Adeptus Custodes, Adeptus Mechanicus
+- **Vicmo & Knuckles Workshop**: Adeptus Mechanicus
+- **Mothman Zack**: Adeptus Mechanicus
+- **Dark Trinity**: Adeptus Mechanicus
+- **SirDragdord**: Adeptus Mechanicus, Drukhari
+- **Slambo Minis**: Adepta Sororitas
+- **Lone_Wolf_28**: Adepta Sororitas
+- **Den of Imagination**: Adeptus Custodes, Imperial Knights
+- **Colonel Cabbage**: Drukhari
+- **Retipupu**: Drukhari
+- **Galling**: Drukhari
+- **ZenphyL**: Drukhari
+- **Ziggy Stardust**: Imperial Knights
 
-*Models* counts the models in these collections that credit the author; a model can credit more than one. Each model's own credit is in its description in the collection file (`# By …`). Two Adeptus Mechanicus models, *Sicarian Ruststalker* and *Sicarian Ruststalker Princeps*, have an unknown author: if they're yours, tell us.
-
-The models belong to their authors. If you made one of them and want the credit changed or the model removed, contact us (Discord below) and it will be done.
+The models belong to their authors. If one of them is yours and you want it credited differently or removed, contact us (Discord below).
 
 ## Adding or improving a collection
 
