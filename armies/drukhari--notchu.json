@@ -84,7 +84,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -139,7 +139,7 @@
             "scaleZ": 1
           },
           "Nickname": "Incubi",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -269,7 +269,7 @@
             "scaleZ": 1
           },
           "Nickname": "Incubi",
-          "Description": "# From Colonel Cabbage",
+          "Description": "# From Colonel Cabbage\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -389,7 +389,7 @@
             "scaleZ": 1.24999976
           },
           "Nickname": "Drazhar",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2559,7 +2559,7 @@
             "scaleZ": 1
           },
           "Nickname": "Incubi",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2689,7 +2689,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -2822,7 +2822,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -2955,7 +2955,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -3088,7 +3088,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Shredder",
+          "Description": "Shredder\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -3221,7 +3221,7 @@
             "scaleZ": 0.37
           },
           "Nickname": "Klaivex",
-          "Description": "Klaive",
+          "Description": "Klaive\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3273,7 +3273,7 @@
             "scaleZ": 1
           },
           "Nickname": "Sybarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -3406,7 +3406,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Heliarch",
-          "Description": "-Splinter Pods\n-Splinter Pistol\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   3   8   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Splinter Pistol\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   3   8   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3834,7 +3834,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3889,7 +3889,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3944,7 +3944,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3999,7 +3999,7 @@
             "scaleZ": 1
           },
           "Nickname": "Incubi",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4129,7 +4129,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -4262,7 +4262,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -4395,7 +4395,7 @@
             "scaleZ": 0.37
           },
           "Nickname": "Incubi",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4447,7 +4447,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -4580,7 +4580,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Dark Lance",
+          "Description": "Dark Lance\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -4713,7 +4713,7 @@
             "scaleZ": 1
           },
           "Nickname": "Sybarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -4846,7 +4846,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -4979,7 +4979,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -5112,7 +5112,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "Splinter Cannon",
+          "Description": "Splinter Cannon\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -5245,7 +5245,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -5378,7 +5378,7 @@
             "scaleZ": 1
           },
           "Nickname": "Sybarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -5511,7 +5511,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -5644,7 +5644,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -5777,7 +5777,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Blaster",
+          "Description": "Blaster\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -5910,7 +5910,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade",
+          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -6043,7 +6043,7 @@
             "scaleZ": 1
           },
           "Nickname": "Reaver",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6239,7 +6239,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -6372,7 +6372,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade",
+          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -6505,7 +6505,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hekatrix",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -6638,7 +6638,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -6771,7 +6771,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade",
+          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -7163,7 +7163,7 @@
             "scaleZ": 1
           },
           "Nickname": "Lelith Hesperax",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7296,7 +7296,7 @@
             "scaleZ": 1.02805257
           },
           "Nickname": "Raider",
-          "Description": "Dark Lance\nfallback",
+          "Description": "Dark Lance\nfallback\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7554,7 +7554,7 @@
             "scaleZ": 1
           },
           "Nickname": "Solarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7749,7 +7749,7 @@
             "scaleZ": 1
           },
           "Nickname": "Nightfiend",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8009,7 +8009,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8139,7 +8139,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8269,7 +8269,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidraven Bomber",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8722,7 +8722,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8852,7 +8852,7 @@
             "scaleZ": 1.02805257
           },
           "Nickname": "venom",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9045,7 +9045,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9175,7 +9175,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9305,7 +9305,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9435,7 +9435,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9565,7 +9565,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mandrake",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9695,7 +9695,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -9828,7 +9828,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "HotA",
           "AltLookAngle": {
             "x": 0,
@@ -9961,7 +9961,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade",
+          "Description": "-Hekatarii Blade\n-Splinter Pistol\n# M  WS BS  S  T  W  A  LD  SV\n# 8\"  3+ 3+  3  5   1    3    7   6+\n# [5ACFFF]Weapons[-]\n# -Plasma Grenade\n# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -10094,7 +10094,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wych",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "Delda",
           "AltLookAngle": {
             "x": 0,
@@ -10227,7 +10227,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hekatrix",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10357,7 +10357,7 @@
             "scaleZ": 0.5000005
           },
           "Nickname": "Razorwing Jetfighter",
-          "Description": "-Twin Splinter Rifle\n-Razorwing Missiles\n(Monoscythe, Necrotoxin, Shatterfield)\n# M  WS BS  S   T  W   A  LD  SV\n# *    6+   *   6   6  10   *   7   4+\n# [B41919]Damage[-]\n# W      M          BS      A\n# 10-6   20\"-72\"  3+      3\n# 5-3     20\"-48\" 4+     D3\n# 2-1     20\"-32\"  5+      1\n# [5ACFFF]Weapons[-]\n# -Dark Lance x2\n# [79B979]Special[-]",
+          "Description": "-Twin Splinter Rifle\n-Razorwing Missiles\n(Monoscythe, Necrotoxin, Shatterfield)\n# M  WS BS  S   T  W   A  LD  SV\n# *    6+   *   6   6  10   *   7   4+\n# [B41919]Damage[-]\n# W      M          BS      A\n# 10-6   20\"-72\"  3+      3\n# 5-3     20\"-48\" 4+     D3\n# 2-1     20\"-32\"  5+      1\n# [5ACFFF]Weapons[-]\n# -Dark Lance x2\n# [79B979]Special[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10821,7 +10821,7 @@
             "scaleZ": 0.900000036
           },
           "Nickname": "Raider",
-          "Description": "Disintegrator Cannon\n# M  WS BS  S   T  W   A  LD  SV\n# *    4+   *   6   5  10   *   7   4+\n# [B41919]Damage[-]\n# W      M    BS      A\n# 10-6   14\"   3+      3\n# 5-3     10\"   4+     D3\n# 2-1      6\"    5+      1\n# [5ACFFF]Weapons[-]\n# -Desintegrator Cannon",
+          "Description": "Disintegrator Cannon\n# M  WS BS  S   T  W   A  LD  SV\n# *    4+   *   6   5  10   *   7   4+\n# [B41919]Damage[-]\n# W      M    BS      A\n# 10-6   14\"   3+      3\n# 5-3     10\"   4+     D3\n# 2-1      6\"    5+      1\n# [5ACFFF]Weapons[-]\n# -Desintegrator Cannon\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10876,7 +10876,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10931,7 +10931,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10986,7 +10986,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11041,7 +11041,7 @@
             "scaleZ": 0.7000003
           },
           "Nickname": "Hellion",
-          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]",
+          "Description": "-Splinter Pods\n-Hellglaive\n# M  WS BS  S  T  W   A  LD  SV\n# 14\"  3+ 3+  3  3   1   2   7   5+\n# [5ACFFF]Weapons[-]\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11096,7 +11096,7 @@
             "scaleZ": 1
           },
           "Nickname": "Succubus",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11226,7 +11226,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wrack",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11278,7 +11278,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wrack",
-          "Description": "Liquifier Gun",
+          "Description": "Liquifier Gun\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11330,7 +11330,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wrack",
-          "Description": "Hexrifle",
+          "Description": "Hexrifle\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11382,7 +11382,7 @@
             "scaleZ": 1
           },
           "Nickname": "Haemonculus",
-          "Description": "# From Colonel Cabbage",
+          "Description": "# From Colonel Cabbage\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11512,7 +11512,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wrack",
-          "Description": "Ossefactor",
+          "Description": "Ossefactor\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11564,7 +11564,7 @@
             "scaleZ": 1
           },
           "Nickname": "Wrack",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11616,7 +11616,7 @@
             "scaleZ": 1
           },
           "Nickname": "Acothyst",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11668,7 +11668,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Archsybarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11798,7 +11798,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Dark Lance",
+          "Description": "Dark Lance\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11928,7 +11928,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Splinter Rifle",
+          "Description": "Splinter Rifle\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12058,7 +12058,7 @@
             "scaleZ": 1
           },
           "Nickname": "Sybarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12188,7 +12188,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Shredder",
+          "Description": "Shredder\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12318,7 +12318,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Splinter Rifle",
+          "Description": "Splinter Rifle\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12448,7 +12448,7 @@
             "scaleZ": 1
           },
           "Nickname": "Sybarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12578,7 +12578,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Agent",
-          "Description": "Splinter Cannon",
+          "Description": "Splinter Cannon\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12708,7 +12708,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Splinter Rifle",
+          "Description": "Splinter Rifle\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12838,7 +12838,7 @@
             "scaleZ": 1
           },
           "Nickname": "Klaivex",
-          "Description": "# From Colonel Cabbage",
+          "Description": "# From Colonel Cabbage\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12968,7 +12968,7 @@
             "scaleZ": 1
           },
           "Nickname": "Incubi",
-          "Description": "# From Colonel Cabbage",
+          "Description": "# From Colonel Cabbage\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13088,7 +13088,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Blaster",
+          "Description": "Blaster\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13348,7 +13348,7 @@
             "scaleZ": 1
           },
           "Nickname": "Kabalite Warrior",
-          "Description": "Splinter Rifle",
+          "Description": "Splinter Rifle\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13478,7 +13478,7 @@
             "scaleZ": 1.02805257
           },
           "Nickname": "Ravager",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13995,7 +13995,7 @@
             "scaleZ": 1.02805257
           },
           "Nickname": "Talos",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14188,7 +14188,7 @@
             "scaleZ": 1.02805257
           },
           "Nickname": "Talos",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14381,7 +14381,7 @@
             "scaleZ": 1.02805257
           },
           "Nickname": "Cronos ",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14574,7 +14574,7 @@
             "scaleZ": 1
           },
           "Nickname": "Solarite",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14769,7 +14769,7 @@
             "scaleZ": 1
           },
           "Nickname": "Scourge",
-          "Description": "Heavy Weapon",
+          "Description": "Heavy Weapon\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15159,7 +15159,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyreaver",
-          "Description": "",
+          "Description": "# Photoscanned by Seaborne",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15289,7 +15289,7 @@
             "scaleZ": 0.6500001
           },
           "Nickname": "Reaver",
-          "Description": "-Splinter Rifle\n-Splinter Pistol",
+          "Description": "-Splinter Rifle\n-Splinter Pistol\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15452,7 +15452,7 @@
             "scaleZ": 0.6500001
           },
           "Nickname": "Arena Champion",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15615,7 +15615,7 @@
             "scaleZ": 0.6500001
           },
           "Nickname": "Reaver",
-          "Description": "-Splinter Rifle\n-Splinter Pistol",
+          "Description": "-Splinter Rifle\n-Splinter Pistol\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15778,7 +15778,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16261,7 +16261,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16744,7 +16744,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17227,7 +17227,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Way Seeker",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17711,7 +17711,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred Felarch",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18195,7 +18195,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18678,7 +18678,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Soul Weaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19163,7 +19163,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19646,7 +19646,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -20129,7 +20129,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred Felarch",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -20613,7 +20613,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -21096,7 +21096,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Shade Runner",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -21580,7 +21580,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -22063,7 +22063,7 @@
             "scaleZ": 1.14999986
           },
           "Nickname": "Voidscarred",
-          "Description": "Wraithcannon",
+          "Description": "Wraithcannon\n# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -22546,7 +22546,7 @@
             "scaleZ": 0.6500001
           },
           "Nickname": "Reaver",
-          "Description": "-Splinter Rifle\n-Splinter Pistol",
+          "Description": "-Splinter Rifle\n-Splinter Pistol\n# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -22709,7 +22709,7 @@
             "scaleZ": 0.6500001
           },
           "Nickname": "Arena Champion",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -22872,7 +22872,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidreaver Felarch",
-          "Description": "",
+          "Description": "# Photoscanned by Seaborne",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -23002,7 +23002,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidreaver",
-          "Description": "",
+          "Description": "# Photoscanned by Seaborne",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -23132,7 +23132,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidreaver",
-          "Description": "",
+          "Description": "# Photoscanned by Seaborne",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -23262,7 +23262,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyreaver",
-          "Description": "",
+          "Description": "# Photoscanned by Seaborne",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -23522,7 +23522,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyreaver Felarch",
-          "Description": "",
+          "Description": "# Photoscanned by Seaborne",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -23652,7 +23652,7 @@
             "scaleZ": 1
           },
           "Nickname": "Shadowseer",
-          "Description": "",
+          "Description": "# Original Model by Savage Boii/40k Translator",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -23785,7 +23785,7 @@
             "scaleZ": 1
           },
           "Nickname": "Death Jester",
-          "Description": "",
+          "Description": "# By Raikoh",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -24045,7 +24045,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyweaver",
-          "Description": "-Zephyrglaive",
+          "Description": "-Zephyrglaive\n# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -24238,7 +24238,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyweaver",
-          "Description": "-Zephyrglaive",
+          "Description": "-Zephyrglaive\n# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -24757,7 +24757,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -24950,7 +24950,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -25143,7 +25143,7 @@
             "scaleZ": 1
           },
           "Nickname": "Skyweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -25336,7 +25336,7 @@
             "scaleZ": 1
           },
           "Nickname": "Starweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -25748,7 +25748,7 @@
             "scaleZ": 1
           },
           "Nickname": "Starweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -26030,7 +26030,7 @@
             "scaleZ": 1
           },
           "Nickname": "Starweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -26312,7 +26312,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -26631,7 +26631,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -26764,7 +26764,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -26897,7 +26897,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -27030,7 +27030,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -27163,7 +27163,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -27296,7 +27296,7 @@
             "scaleZ": 1
           },
           "Nickname": "Lead Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -27429,7 +27429,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -27748,7 +27748,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -27881,7 +27881,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28014,7 +28014,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28147,7 +28147,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28280,7 +28280,7 @@
             "scaleZ": 1
           },
           "Nickname": "Lead Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28413,7 +28413,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28546,7 +28546,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28679,7 +28679,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -28812,7 +28812,7 @@
             "scaleZ": 1
           },
           "Nickname": "Lead Player",
-          "Description": "Power sword\nShuriken Pistol",
+          "Description": "Power sword\nShuriken Pistol\n# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -28945,7 +28945,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -29078,7 +29078,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -29211,7 +29211,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -29344,7 +29344,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -29477,7 +29477,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -29610,7 +29610,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidweaver",
-          "Description": "Prismatic Cannon",
+          "Description": "Prismatic Cannon\n# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -29929,7 +29929,7 @@
             "scaleZ": 1
           },
           "Nickname": "Starweaver",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -30211,7 +30211,7 @@
             "scaleZ": 1
           },
           "Nickname": "Voidweaver",
-          "Description": "Prismatic Cannon",
+          "Description": "Prismatic Cannon\n# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -30530,7 +30530,7 @@
             "scaleZ": 1
           },
           "Nickname": "Player",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "VoidDancer",
           "AltLookAngle": {
             "x": 0,
@@ -30663,7 +30663,7 @@
             "scaleZ": 1
           },
           "Nickname": "Troupe Master",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -30856,7 +30856,7 @@
             "scaleZ": 1
           },
           "Nickname": "Troupe Master",
-          "Description": "",
+          "Description": "# By Orange Blue Hue",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
