@@ -1,5 +1,5 @@
 {
-  "SaveName": "Ouroboris Tyranids",
+  "SaveName": "Tyranids",
   "Date": "",
   "VersionNumber": "",
   "GameMode": "",
@@ -30,9 +30,9 @@
         "scaleY": 1,
         "scaleZ": 1
       },
-      "Nickname": "Ouroboris Tyranids",
+      "Nickname": "Tyranids",
       "Description": "",
-      "GMNotes": "{\"autoArmy\":1,\"army\":\"Ouroboris Tyranids\",\"author\":\"Toryg\",\"faction\":\"Tyranids\",\"bsdata\":\"f015101d4c495173283e1b97e9d59f2befb877ad\",\"updated\":\"2026-11-11\"}",
+      "GMNotes": "{\"autoArmy\":1,\"army\":\"Tyranids\",\"author\":\"Toryg\",\"faction\":\"Tyranids\",\"bsdata\":\"f015101d4c49\",\"updated\":\"2026-11-20\"}",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -81,7 +81,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrannofex",
-          "Description": "Fleshborer hive\nby Makura-Gaeshi\n# The poor, neglected stepchild of the T-fex family.\n# - Makura-Gaeshi",
+          "Description": "Fleshborer hive\n# The poor, neglected stepchild of the T-fex family.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -211,7 +211,7 @@
             "scaleZ": 1
           },
           "Nickname": "Harpy",
-          "Description": "Twin stranglethorn cannon\nby Makura-Gaeshi\n# A bit more of a nuisance than your average mythical harpy.\n# - Makura-Gaeshi",
+          "Description": "Twin stranglethorn cannon\n# A bit more of a nuisance than your average mythical harpy.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -341,7 +341,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Crone",
-          "Description": "by Makura-Gaeshi\n# What do those arm sac things have in them? What do they do?\n# - Makura-Gaeshi",
+          "Description": "# What do those arm sac things have in them? What do they do?\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -471,7 +471,7 @@
             "scaleZ": 1
           },
           "Nickname": "Harpy",
-          "Description": "Twin heavy venom cannon\nby Makura-Gaeshi\n# A bit more of a nuisance than your average mythical harpy.\n# - Makura-Gaeshi",
+          "Description": "Twin heavy venom cannon\n# A bit more of a nuisance than your average mythical harpy.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -601,7 +601,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tervigon",
-          "Description": "Massive scything talons\nby Makura-Gaeshi\n# Fastest gestation period in the West.\n# - Makura-Gaeshi",
+          "Description": "Massive scything talons\n# Fastest gestation period in the West.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -731,7 +731,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tervigon",
-          "Description": "Massive crushing claws\nby Makura-Gaeshi\n# Fastest gestation period in the West.\n# - Makura-Gaeshi",
+          "Description": "Massive crushing claws\n# Fastest gestation period in the West.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -861,7 +861,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrannofex",
-          "Description": "Rupture cannon\nby Makura-Gaeshi\n# Doesn't always one-tap your opponent's 20W walker, but they'll treat it like it will.\n# - Makura-Gaeshi",
+          "Description": "Rupture cannon\n# Doesn't always one-tap your opponent's 20W walker, but they'll treat it like it will.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -991,7 +991,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrannofex",
-          "Description": "Acid spray\nby Makura-Gaeshi\n# Terror of the midfield; refuses to die.\n# - Makura-Gaeshi",
+          "Description": "Acid spray\n# Terror of the midfield; refuses to die.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1121,7 +1121,7 @@
             "scaleZ": 1
           },
           "Nickname": "Harridan",
-          "Description": "by Makura-Gaeshi\n# *Slaps roof of harridan*\n# This bad girl can fit so many fucking gargoyles in it.\n# - Makura-Gaeshi",
+          "Description": "# *Slaps roof of harridan*\n# This bad girl can fit so many fucking gargoyles in it.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1251,7 +1251,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Hive Tyrant",
-          "Description": "Heavy venom cannon\nby Makura-Gaeshi\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
+          "Description": "Heavy venom cannon\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1382,7 +1382,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hierophant",
-          "Description": "by Makura-Gaeshi\n# Nicer and better looking than a lot of Imperium pontiffs.\n# - Makura-Gaeshi",
+          "Description": "# Nicer and better looking than a lot of Imperium pontiffs.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1447,7 +1447,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Hive Tyrant",
-          "Description": "Heavy venom cannon\nby Makura-Gaeshi\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
+          "Description": "Heavy venom cannon\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1578,7 +1578,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrannocyte",
-          "Description": "by Makura-Gaeshi\n# Confuse with a tyrannofex at your own peril.\n# - Makura-Gaeshi",
+          "Description": "# Confuse with a tyrannofex at your own peril.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1708,7 +1708,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mucolid Spore",
-          "Description": "by Makura-Gaeshi\n# Like a spore mine, but fat.\n# - Makura-Gaeshi",
+          "Description": "# Like a spore mine, but fat.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1838,7 +1838,7 @@
             "scaleZ": 1
           },
           "Nickname": "Sporocyst",
-          "Description": "by Makura-Gaeshi\n# Voms out mines.\n# - Makura-Gaeshi",
+          "Description": "# Voms out mines.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -1968,7 +1968,7 @@
             "scaleZ": 1
           },
           "Nickname": "Screamer Killer",
-          "Description": "by Makura-Gaeshi\n# AAAAAAAAAAAAAAAAAAAAAAAAA\n# - Makura-Gaeshi",
+          "Description": "# AAAAAAAAAAAAAAAAAAAAAAAAA\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2098,7 +2098,7 @@
             "scaleZ": 1
           },
           "Nickname": "Trygon",
-          "Description": "by Makura-Gaeshi\n# What you get when you cross a female lion and a male tryger.\n# - Makura-Gaeshi",
+          "Description": "# What you get when you cross a female lion and a male tryger.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2228,7 +2228,7 @@
             "scaleZ": 1
           },
           "Nickname": "Toxicrene",
-          "Description": "by Makura-Gaeshi\n# If Octodad was a blue ringed octopus, and not a dad, and also a giant monster.\n# - Makura-Gaeshi",
+          "Description": "# If Octodad was a blue ringed octopus, and not a dad, and also a giant monster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2358,7 +2358,7 @@
             "scaleZ": 1
           },
           "Nickname": "Trygon",
-          "Description": "prime\nby Makura-Gaeshi\n# A zappier trygon.\n# - Makura-Gaeshi",
+          "Description": "prime\n# A zappier trygon.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2488,7 +2488,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Deathspitters with slimer maggots\nHeavy venom cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Deathspitters with slimer maggots\nHeavy venom cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2618,7 +2618,7 @@
             "scaleZ": 1
           },
           "Nickname": "Maleceptor",
-          "Description": "by Makura-Gaeshi\n# Radiates awful vibes. Totally a Scorpio.\n# - Makura-Gaeshi",
+          "Description": "# Radiates awful vibes. Totally a Scorpio.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2748,7 +2748,7 @@
             "scaleZ": 1
           },
           "Nickname": "Mawloc",
-          "Description": "by Makura-Gaeshi\n# Can't spell \"mawloc\" without \"maw\".\n# - Makura-Gaeshi",
+          "Description": "# Can't spell \"mawloc\" without \"maw\".\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -2878,7 +2878,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Heavy venom cannon\nDevourers with brainleech worms\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Heavy venom cannon\nDevourers with brainleech worms\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3008,7 +3008,7 @@
             "scaleZ": 1
           },
           "Nickname": "Exocrine",
-          "Description": "by Makura-Gaeshi\n# Single handedly holding up tyranid gunlines since 2023.\n# - Makura-Gaeshi",
+          "Description": "# Single handedly holding up tyranid gunlines since 2023.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3138,7 +3138,7 @@
             "scaleZ": 1
           },
           "Nickname": "Norn Assimilator",
-          "Description": "by Makura-Gaeshi\n# Feasts on the rarest of biomass.\n# - Makura-Gaeshi",
+          "Description": "# Feasts on the rarest of biomass.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3268,7 +3268,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex crushing claws\nHeavy venom cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex crushing claws\nHeavy venom cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3398,7 +3398,7 @@
             "scaleZ": 1
           },
           "Nickname": "Haruspex",
-          "Description": "by Makura-Gaeshi\n# The hungriest of hungry hippos.\n# - Makura-Gaeshi",
+          "Description": "# The hungriest of hungry hippos.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3528,7 +3528,7 @@
             "scaleZ": 1
           },
           "Nickname": "Norn Emissary",
-          "Description": "by Makura-Gaeshi\n# Able to turn its head a whole 5 degrees in either direction.\n# - Makura-Gaeshi",
+          "Description": "# Able to turn its head a whole 5 degrees in either direction.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3658,7 +3658,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex scything talons\nHeavy venom cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex scything talons\nHeavy venom cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3788,7 +3788,7 @@
             "scaleZ": 1
           },
           "Nickname": "Psychophage",
-          "Description": "by Makura-Gaeshi\nvariant: by Makura-Gaeshi\n# Wonder how close this one came to being called a neurovore.\n# - Makura-Gaeshi",
+          "Description": "# Wonder how close this one came to being called a neurovore.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -3918,7 +3918,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ripper Swarm",
-          "Description": "Spinemaw\nby Makura-Gaeshi\n# Never feed them after midnight.\n# - Makura-Gaeshi",
+          "Description": "Spinemaw\n# Never feed them after midnight.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4048,7 +4048,7 @@
             "scaleZ": 1
           },
           "Nickname": "Barbgaunt",
-          "Description": "Barblauncher\nby Makura-Gaeshi\n# I'm not a baby, I'm a tumour!",
+          "Description": "Barblauncher\n# I'm not a baby, I'm a tumour!",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4178,7 +4178,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Fleshborer\nby Makura-Gaeshi\n# The most boring termie loadout.\n# - Makura-Gaeshi",
+          "Description": "Fleshborer\n# The most boring termie loadout.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4308,7 +4308,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Fleshborer\nby Makura-Gaeshi\n# The most boring termie loadout.\n# - Makura-Gaeshi",
+          "Description": "Fleshborer\n# The most boring termie loadout.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4438,7 +4438,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Fleshborer\nby Makura-Gaeshi\n# The most boring termie loadout.\n# - Makura-Gaeshi",
+          "Description": "Fleshborer\n# The most boring termie loadout.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4568,7 +4568,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Fleshborer\nby Makura-Gaeshi\n# For use against trypophobic opponents.\n# - Makura-Gaeshi",
+          "Description": "Fleshborer\n# For use against trypophobic opponents.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4698,7 +4698,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Fleshborer\nby Makura-Gaeshi\n# For use against trypophobic opponents.\n# - Makura-Gaeshi",
+          "Description": "Fleshborer\n# For use against trypophobic opponents.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4828,7 +4828,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Termagant devourer\nby Makura-Gaeshi\n# For use against trypophobic opponents.\n# - Makura-Gaeshi",
+          "Description": "Termagant devourer\n# For use against trypophobic opponents.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -4958,7 +4958,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Termagant spinefist\nby Makura-Gaeshi\n# For enhanced, long-range punching.\n# - Makura-Gaeshi",
+          "Description": "Termagant spinefist\n# For enhanced, long-range punching.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5088,7 +5088,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Termagant spinefist\nby Makura-Gaeshi\n# For enhanced, long-range punching.\n# - Makura-Gaeshi",
+          "Description": "Termagant spinefist\n# For enhanced, long-range punching.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5218,7 +5218,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagants",
-          "Description": "Termagant spinefist\nby Makura-Gaeshi\n# For enhanced, long-range punching.\n# - Makura-Gaeshi",
+          "Description": "Termagant spinefist\n# For enhanced, long-range punching.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5348,7 +5348,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagant",
-          "Description": "Spike rifle\nby Makura-Gaeshi\n# Look out! The gun's gotten looonger!\n# - Makura-Gaeshi",
+          "Description": "Spike rifle\n# Look out! The gun's gotten looonger!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5478,7 +5478,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurogaunt",
-          "Description": "by Makura-Gaeshi\n# Even gets bullied by rippers.\n# - Makura-Gaeshi",
+          "Description": "# Even gets bullied by rippers.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5608,7 +5608,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurogaunt",
-          "Description": "by Makura-Gaeshi\n# Even gets bullied by rippers.\n# - Makura-Gaeshi",
+          "Description": "# Even gets bullied by rippers.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5738,7 +5738,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurogaunt",
-          "Description": "by Makura-Gaeshi\n# Even gets bullied by rippers.\n# - Makura-Gaeshi",
+          "Description": "# Even gets bullied by rippers.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5868,7 +5868,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -5998,7 +5998,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6128,7 +6128,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6258,7 +6258,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6388,7 +6388,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6518,7 +6518,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagant",
-          "Description": "Shardlauncher\nby Makura-Gaeshi\n# Isn't he pleased with himself!\n# - Makura-Gaeshi",
+          "Description": "Shardlauncher\n# Isn't he pleased with himself!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6648,7 +6648,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurogaunt Nodebeast",
-          "Description": "by Makura-Gaeshi\n# The dumbest of the brain bugs.\n# - Makura-Gaeshi",
+          "Description": "# The dumbest of the brain bugs.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6778,7 +6778,7 @@
             "scaleZ": 1
           },
           "Nickname": "Termagant",
-          "Description": "Strangleweb\nby Makura-Gaeshi\n# No, it's not a water sprinkler.\n# - Makura-Gaeshi",
+          "Description": "Strangleweb\n# No, it's not a water sprinkler.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -6908,7 +6908,7 @@
             "scaleZ": 1
           },
           "Nickname": "Genestealer",
-          "Description": "by Makura-Gaeshi\n# Two pairs of hands makes for twice as much stealing.\n# - Makura-Gaeshi",
+          "Description": "# Two pairs of hands makes for twice as much stealing.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7038,7 +7038,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hormagaunts",
-          "Description": "by Makura-Gaeshi\n# Right nippy little buggers, these ones.\n# - Makura-Gaeshi",
+          "Description": "Hormagaunt talons\n# Right nippy little buggers, these ones.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7168,7 +7168,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hormagaunts",
-          "Description": "by Makura-Gaeshi\n# Right nippy little buggers, these ones.\n# - Makura-Gaeshi",
+          "Description": "Hormagaunt talons\n# Right nippy little buggers, these ones.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7298,7 +7298,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hormagaunts",
-          "Description": "by Makura-Gaeshi\n# Right nippy little buggers, these ones.\n# - Makura-Gaeshi",
+          "Description": "Hormagaunt talons\n# Right nippy little buggers, these ones.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7428,7 +7428,7 @@
             "scaleZ": 1
           },
           "Nickname": "Genestealer",
-          "Description": "by Makura-Gaeshi\n# Same great taste, now with talons!\n# - Makura-Gaeshi",
+          "Description": "# Same great taste, now with talons!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7558,7 +7558,7 @@
             "scaleZ": 1
           },
           "Nickname": "Gargoyles",
-          "Description": "by Makura-Gaeshi\n# *flop*\n# - Makura-Gaeshi",
+          "Description": "# *flop*\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7689,7 +7689,7 @@
             "scaleZ": 1
           },
           "Nickname": "Gargoyles",
-          "Description": "by Makura-Gaeshi\n# *flap*\n# - Makura-Gaeshi",
+          "Description": "# *flap*\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7820,7 +7820,7 @@
             "scaleZ": 1
           },
           "Nickname": "Gargoyles",
-          "Description": "by Makura-Gaeshi\n# *flip*\n# - Makura-Gaeshi",
+          "Description": "# *flip*\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -7951,7 +7951,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8081,7 +8081,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8211,7 +8211,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8341,7 +8341,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8471,7 +8471,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8601,7 +8601,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8731,7 +8731,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8861,7 +8861,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -8991,7 +8991,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9121,7 +9121,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9251,7 +9251,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9380,8 +9380,8 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "Nickname": "Tyranid Prime",
-          "Description": "Devourer\nby Makura-Gaeshi\nalias: Tyranid Prime\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Nickname": "Tyranid Warrior",
+          "Description": "Devourer\nalias: Tyranid Prime\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9511,7 +9511,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Devourer\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Devourer\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9641,7 +9641,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Devourer\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Devourer\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9771,7 +9771,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Devourer\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Devourer\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -9901,7 +9901,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Deathspitter\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Deathspitter\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10031,7 +10031,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Deathspitter\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Deathspitter\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10161,7 +10161,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Deathspitter\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Deathspitter\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10291,7 +10291,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Deathspitter\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Deathspitter\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10421,7 +10421,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Spinefists\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Spinefists\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10551,7 +10551,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Spinefists\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Spinefists\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10681,7 +10681,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Spinefists\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Spinefists\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10811,7 +10811,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Spinefists\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Spinefists\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -10941,7 +10941,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Barbed strangler\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Barbed strangler\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11071,7 +11071,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Barbed strangler\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Barbed strangler\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11201,7 +11201,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Barbed strangler\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Barbed strangler\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11331,7 +11331,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Barbed strangler\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Barbed strangler\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11461,7 +11461,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Venom cannon\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Venom cannon\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11591,7 +11591,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime",
-          "Description": "Venom cannon\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Venom cannon\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11721,7 +11721,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Venom cannon\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Venom cannon\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11851,7 +11851,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Warrior",
-          "Description": "Venom cannon\nby Makura-Gaeshi\n# Tyranid middle management.\n# - Makura-Gaeshi",
+          "Description": "Venom cannon\n# Tyranid middle management.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -11981,7 +11981,7 @@
             "scaleZ": 1
           },
           "Nickname": "Pyrovore",
-          "Description": "by Makura-Gaeshi\n# Prefers its meals cooked.\n# - Makura-Gaeshi",
+          "Description": "# Prefers its meals cooked.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12111,7 +12111,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Hive Tyrant",
-          "Description": "Monstrous bonesword and lash whip\nby Makura-Gaeshi\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
+          "Description": "Monstrous bonesword and lash whip\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12242,7 +12242,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Hive Tyrant",
-          "Description": "Monstrous scything talons\nby Makura-Gaeshi\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
+          "Description": "Monstrous scything talons\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12373,7 +12373,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Hive Tyrant",
-          "Description": "Monstrous bonesword and lash whip\nby Makura-Gaeshi\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
+          "Description": "Monstrous bonesword and lash whip\n# They fly now.\n# They fly now?\n# They fly now!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12504,7 +12504,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous bonesword and lash whip\nMonstrous scything talons\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous bonesword and lash whip\nMonstrous scything talons\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12634,7 +12634,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous bonesword and lash whip\nStranglethorn cannon\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous bonesword and lash whip\nStranglethorn cannon\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12764,7 +12764,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous scything talons\nHeavy venom cannon\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous scything talons\nHeavy venom cannon\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -12894,7 +12894,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous bonesword and lash whip\nHeavy venom cannon\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous bonesword and lash whip\nHeavy venom cannon\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13024,7 +13024,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous scything talons\nExtra Scything Talons\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous scything talons\nExtra Scything Talons\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13154,7 +13154,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous scything talons\nStranglethorn cannon\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous scything talons\nStranglethorn cannon\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13284,7 +13284,7 @@
             "scaleZ": 1
           },
           "Nickname": "The Red Terror",
-          "Description": "by Makura-Gaeshi\n# For reddest terrors, try hive fleets Kraken, Kronos or Lotan!\n# - Makura-Gaeshi",
+          "Description": "# For reddest terrors, try hive fleets Kraken, Kronos or Lotan!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13414,7 +13414,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Hive Tyrant",
-          "Description": "Monstrous scything talons\nMonstrous bonesword and lash whip\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous scything talons\nMonstrous bonesword and lash whip\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13544,7 +13544,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Monstrous bonesword and lash whip\nStranglethorn cannon\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Monstrous bonesword and lash whip\nStranglethorn cannon\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13674,7 +13674,7 @@
             "scaleZ": 1
           },
           "Nickname": "The Swarmlord",
-          "Description": "by Makura-Gaeshi\n# Roronoa Zoro, eat your heart out.\n# - Makura-Gaeshi",
+          "Description": "# Roronoa Zoro, eat your heart out.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13804,7 +13804,7 @@
             "scaleZ": 1
           },
           "Nickname": "Old One Eye",
-          "Description": "by Makura-Gaeshi\n# Ok, but if he regenerates so well, why hasn't his eye grown back yet?\n# - Makura-Gaeshi",
+          "Description": "# Ok, but if he regenerates so well, why hasn't his eye grown back yet?\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -13934,7 +13934,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Tyrant",
-          "Description": "Heavy venom cannon\nMonstrous bonesword and lash whip\nby Makura-Gaeshi\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
+          "Description": "Heavy venom cannon\nMonstrous bonesword and lash whip\n# Bigger, stronger, scarier, and smarter than you.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14064,7 +14064,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Deathspitters with slimer maggots\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Deathspitters with slimer maggots\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14194,7 +14194,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Deathspitters with slimer maggots\nStranglethorn cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Deathspitters with slimer maggots\nStranglethorn cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14324,7 +14324,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrant Guard",
-          "Description": "Scything talons and rending claws\nby Makura-Gaeshi\n# Definitional beta orbiters.\n# - Makura-Gaeshi",
+          "Description": "Scything talons and rending claws\n# Definitional beta orbiters.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14454,7 +14454,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrant Guard",
-          "Description": "Crushing claws and rending claws\nby Makura-Gaeshi\n# Definitional beta orbiters.\n# - Makura-Gaeshi",
+          "Description": "Crushing claws and rending claws\n# Definitional beta orbiters.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14584,7 +14584,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyrant Guard",
-          "Description": "Bone cleaver, lash whip and rending claws\nby Makura-Gaeshi\n# Definitional beta orbiters.\n# - Makura-Gaeshi",
+          "Description": "Bone cleaver, lash whip and rending claws\n# Definitional beta orbiters.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14714,7 +14714,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Devourers with brainleech worms\nDeathspitters with slimer maggots\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Devourers with brainleech worms\nDeathspitters with slimer maggots\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14844,7 +14844,7 @@
             "scaleZ": 1
           },
           "Nickname": "Deathleaper",
-          "Description": "by Makura-Gaeshi\n# Has a more refined taste in brains than the average lictor.\n# - Makura-Gaeshi",
+          "Description": "# Has a more refined taste in brains than the average lictor.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -14974,7 +14974,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Devourers with brainleech worms\nStranglethorn cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Devourers with brainleech worms\nStranglethorn cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15104,7 +15104,7 @@
             "scaleZ": 1
           },
           "Nickname": "Venomthrope",
-          "Description": "by Makura-Gaeshi\n# Prone to having \"heated gamer moments\".\n# - Makura-Gaeshi",
+          "Description": "# Prone to having \"heated gamer moments\".\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15234,7 +15234,7 @@
             "scaleZ": 1
           },
           "Nickname": "Zoanthrope",
-          "Description": "by Makura-Gaeshi\n# Brain bugs? Frankly I find the idea of a bug that thinks offensive!\n# - Makura-Gaeshi",
+          "Description": "# Brain bugs? Frankly I find the idea of a bug that thinks offensive!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15364,7 +15364,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurothrope",
-          "Description": "by Makura-Gaeshi\n# Always carries an extra spine in case of emergencies.\n# - Makura-Gaeshi",
+          "Description": "# Always carries an extra spine in case of emergencies.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15494,7 +15494,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Guard",
-          "Description": "Shockcannon\nby Makura-Gaeshi\n# Who needs eyes when your gun does the aiming for you?",
+          "Description": "Shockcannon\n# Who needs eyes when your gun does the aiming for you?",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15624,7 +15624,7 @@
             "scaleZ": 1
           },
           "Nickname": "Lictor",
-          "Description": "by Makura-Gaeshi\n# ... I barely know her!\n# - Makura-Gaeshi",
+          "Description": "# ... I barely know her!\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15754,7 +15754,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Devourers with brainleech worms\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Devourers with brainleech worms\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -15884,7 +15884,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Devourers with brainleech worms\nCarnifex crushing claws\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Devourers with brainleech worms\nCarnifex crushing claws\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16014,7 +16014,7 @@
             "scaleZ": 1
           },
           "Nickname": "Hive Guard",
-          "Description": "Impaler cannon\nby Makura-Gaeshi\n# Who needs eyes when your gun does the aiming for you?",
+          "Description": "Impaler cannon\n# Who needs eyes when your gun does the aiming for you?",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16144,7 +16144,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex crushing claws\nDeathspitters with slimer maggots\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex crushing claws\nDeathspitters with slimer maggots\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16274,7 +16274,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex crushing claws\nStranglethorn cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex crushing claws\nStranglethorn cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16404,7 +16404,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex extra scything talons\nDevourers with brainleech worms\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex extra scything talons\nDevourers with brainleech worms\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16534,7 +16534,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16664,7 +16664,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16794,7 +16794,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener Prime",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -16924,7 +16924,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17054,7 +17054,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17184,7 +17184,7 @@
             "scaleZ": 1
           },
           "Nickname": "Winged Tyranid Prime",
-          "Description": "by Makura-Gaeshi\n# Bet he misses his shrike buddies.\n# - Makura-Gaeshi",
+          "Description": "# Bet he misses his shrike buddies.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17314,7 +17314,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17444,7 +17444,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "Venom bolt\nby Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "Venom bolt\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17574,7 +17574,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex scything talons\nDeathspitters with slimer maggots\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex scything talons\nDeathspitters with slimer maggots\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17704,7 +17704,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurolictor",
-          "Description": "by Makura-Gaeshi\n# Does it ever get tempted to suck out its own brain, I wonder?\n# - Makura-Gaeshi",
+          "Description": "# Does it ever get tempted to suck out its own brain, I wonder?\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -17834,7 +17834,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex scything talons\nHeavy venom cannon\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex scything talons\nHeavy venom cannon\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18224,7 +18224,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex extra scything talons\nCarnifex scything talons\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex extra scything talons\nCarnifex scything talons\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18354,7 +18354,7 @@
             "scaleZ": 1
           },
           "Nickname": "Parasite of Mortrex",
-          "Description": "by Makura-Gaeshi\n# Here to make all your mpreg dreams come true.\n# - Makura-Gaeshi",
+          "Description": "# Here to make all your mpreg dreams come true.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18484,7 +18484,7 @@
             "scaleZ": 1
           },
           "Nickname": "Neurotyrant",
-          "Description": "by Makura-Gaeshi\n# So smart it keeps pet brains.\n# - Makura-Gaeshi",
+          "Description": "# So smart it keeps pet brains.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18614,7 +18614,7 @@
             "scaleZ": 1
           },
           "Nickname": "Spore Mine",
-          "Description": "by Makura-Gaeshi\n# True to real life minefields, better for area denial than damage.\n# - Makura-Gaeshi",
+          "Description": "# True to real life minefields, better for area denial than damage.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18744,7 +18744,7 @@
             "scaleZ": 1
           },
           "Nickname": "Broodlord",
-          "Description": "by Makura-Gaeshi\n# A total freak, and you better believe he owns it.\n# - Makura-Gaeshi",
+          "Description": "# A total freak, and you better believe he owns it.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -18874,7 +18874,7 @@
             "scaleZ": 1
           },
           "Nickname": "Tyranid Prime with Lash Whip",
-          "Description": "by Makura-Gaeshi\n# Now he just needs some real rules...\n# - Makura-Gaeshi",
+          "Description": "# Now he just needs some real rules...\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19004,7 +19004,7 @@
             "scaleZ": 1
           },
           "Nickname": "Von Ryan's Leaper",
-          "Description": "by Makura-Gaeshi\n# Significantly cuter than a lictor.\n# - Makura-Gaeshi",
+          "Description": "# Significantly cuter than a lictor.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19134,7 +19134,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19264,7 +19264,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19394,7 +19394,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener Prime",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19524,7 +19524,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19654,7 +19654,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19784,7 +19784,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "by Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -19914,7 +19914,7 @@
             "scaleZ": 1
           },
           "Nickname": "Ravener",
-          "Description": "Venom bolt\nby Makura-Gaeshi\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
+          "Description": "Venom bolt\n# So hungry, they'll even eat dirt.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -20044,7 +20044,7 @@
             "scaleZ": 1
           },
           "Nickname": "Carnifex",
-          "Description": "Carnifex crushing claws\nCarnifex scything talons\nby Makura-Gaeshi\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
+          "Description": "Carnifex crushing claws\nCarnifex scything talons\n# The Ford Transit of the Tyranid roster.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -20174,7 +20174,7 @@
             "scaleZ": 1
           },
           "Nickname": "Biovore",
-          "Description": "by Makura-Gaeshi\n# Don't they all eat biomass? Why is this one so special?\n# - Makura-Gaeshi",
+          "Description": "# Don't they all eat biomass? Why is this one so special?\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -20304,7 +20304,7 @@
             "scaleZ": 1
           },
           "Nickname": "Spore Mine",
-          "Description": "by Makura-Gaeshi\n# True to real life minefields, better for area denial than damage.\n# - Makura-Gaeshi",
+          "Description": "# True to real life minefields, better for area denial than damage.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
@@ -20434,7 +20434,7 @@
             "scaleZ": 1
           },
           "Nickname": "Spore Mine",
-          "Description": "by Makura-Gaeshi\n# True to real life minefields, better for area denial than damage.\n# - Makura-Gaeshi",
+          "Description": "# True to real life minefields, better for area denial than damage.\n# - Makura-Gaeshi",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0,
